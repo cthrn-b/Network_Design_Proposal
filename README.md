@@ -31,7 +31,7 @@ This project presents a comprehensive **Network Design Proposal** for ABC Corpor
 - **Protocols:** OSPF, BGP, VLANs, QoS.
 - **Security Measures:** VPN, Firewalls, Encryption, Access Control.
 
-## 🖥️ Network Diagrams
+## Network Diagrams
 - **Hierarchical Design Diagram** (Core, Distribution, Access layers).
 - **Redundancy Diagram** (Backup links, failover mechanisms).
   
